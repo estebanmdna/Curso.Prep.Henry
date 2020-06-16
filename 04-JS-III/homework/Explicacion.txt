@@ -1,0 +1,1 @@
+Un Array es un Arreglo, dentro de esta variable puede haber infinitos conceptos (numeros, stings, booleans, Otros arreglos) funciona como matriz. podemos eliminar y agregar datos, ver su longitud etc.

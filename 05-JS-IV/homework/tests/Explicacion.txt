@@ -1,0 +1,5 @@
+Objetos: es un grupo de propiedades.
+Propiedades: seria un subindice dentro de objetos, las cuales puede ser nombres, edad, vocacion, hobbies, etc.
+Métodos: es una manera de decirle a la consola que imprima algo, ejemplo 'un mensaje'.
+Bucle for…in: aun no lo entiendo :(
+Notación de puntos vs notación de corchetes: idem anterior. tratando de enfocarme en estos conceptos pendientes.

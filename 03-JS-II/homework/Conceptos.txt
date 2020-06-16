@@ -1,0 +1,4 @@
+&& es un operador logico que al usarse, si los conceptos son todos verdaderos arrojara el velor True, de lo contrario al tener un solo valor falso arrojara False.
+||, "O" u "OR" es un operador logico que devolvera 'True'si uno de los valores es verdadero, solo traera 'False' si todos los conceptos son falsos.
+! "NOT" (NO) es como un negativo delante de un problema matematico, transforma todo el concepto a su derecha en lo contrario.
+FOR es un condicional que le indica a la funcion como debe comenzar, cuando termina y de que manera debe avanzar.
